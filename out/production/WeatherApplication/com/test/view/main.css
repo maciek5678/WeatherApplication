@@ -1,0 +1,12 @@
+AnchorPane{
+-fx-background-color: #4D7A97;
+}
+#myWeather, #destForecast, #myForecast, #destWeather
+{
+-fx-background-color: #dee3e9;
+ -fx-background-radius: 10px;
+
+}
+.temperatureLabel{
+-fx-font-weight: bold;
+}
